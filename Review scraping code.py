@@ -44,14 +44,3 @@ def getFullData(movie_id):
         
     return list_of_review 
     
-
-
-
-            
-        
-
-            
-                    
-                
- 
-
