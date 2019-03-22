@@ -1,4 +1,4 @@
-# Web-scraping technique using Bueatiful soup
+# Web-scraping technique using Selenium
 
 This program is to present the application of Beautiful soup library to scrap movie review on https://www.rottentomatoes.com/ 
 This program also uses Natural language processing to delete no meaningful words out of the texts and graphically show frequent words of the text usign Wordcloud.
